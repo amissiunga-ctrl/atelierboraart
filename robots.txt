@@ -1,0 +1,11 @@
+# robots.txt — Atelier BoraArt
+# Autorise tous les robots à indexer l'ensemble du site public.
+
+User-agent: *
+Allow: /
+
+# Pages techniques / de test à ne pas indexer
+Disallow: /_demo-bonus.html
+
+# Emplacement du plan du site
+Sitemap: https://atelierboraart.com/sitemap.xml

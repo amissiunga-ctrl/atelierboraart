@@ -1,0 +1,448 @@
+{
+  "_comment": "Donnees des oeuvres. Chaque oeuvre a un prix unique (champ 'price', en USD). AJOUTER: copiez un bloc, changez les valeurs, deposez l'image dans /images. MODIFIER/SUPPRIMER: editez/effacez le bloc. Galerie et accueil se regenerent. Utilisez admin.html pour generer ce JSON.",
+  "currency": "USD",
+  "works": [
+    {
+      "id": "Atelierboraart",
+      "category": "abstrait",
+      "image": "Atelierboraart.png",
+      "alt": "Héritage en Mouvement",
+      "format": "PNG · 300 dpi",
+      "categoryLabel": {
+        "fr": "Abstrait",
+        "en": "Abstract"
+      },
+      "title": {
+        "fr": "Héritage en Mouvement",
+        "en": "Heritage in Motion"
+      },
+      "description": {
+        "fr": "Une composition afro-contemporaine où les formes géométriques et les motifs africains dialoguent avec des textures modernes.",
+        "en": "An afro-contemporary composition where geometric shapes and African patterns dialogue with modern textures."
+      },
+      "payhipUrl": "https://payhip.com/b/iWmcq",
+      "featured": true,
+      "price": 75,
+      "fileType": "PNG",
+      "dpi": 300,
+      "printSize": "56 × 80 cm",
+      "pixels": "6614 × 9449 px"
+    },
+    {
+      "id": "reine-des-couleurs",
+      "category": "portrait",
+      "image": "reine-des-couleurs.jpg",
+      "alt": "Reine des Couleurs",
+      "format": "JPG · 300 dpi",
+      "categoryLabel": {
+        "fr": "Portrait",
+        "en": "Portrait"
+      },
+      "title": {
+        "fr": "Reine des Couleurs",
+        "en": "Queen of Colors"
+      },
+      "description": {
+        "fr": "Le visage serein d'une femme africaine, fragmenté en blocs de couleurs vives — bleu, or, rose et corail — évoquant un vitrail contemporain. Les motifs géométriques et symboles tribaux qui l'entourent célèbrent l'identité et la dignité africaine.",
+        "en": "The serene face of an African woman, fragmented into vivid blocks of colour — blue, gold, pink and coral — evoking a contemporary stained glass window. The surrounding geometric patterns and tribal symbols celebrate African identity and dignity."
+      },
+      "payhipUrl": "https://payhip.com/b/FNcIf",
+      "featured": false,
+      "price": 75,
+      "fileType": "JPG",
+      "dpi": 300,
+      "printSize": "56 × 80 cm",
+      "pixels": "6614 × 9449 px"
+    },
+    {
+      "id": "explosion-chromatique",
+      "category": "abstrait",
+      "image": "explosion-chromatique.jpg",
+      "alt": "Explosion Chromatique",
+      "format": "JPG · 300 dpi",
+      "categoryLabel": {
+        "fr": "Abstrait",
+        "en": "Abstract"
+      },
+      "title": {
+        "fr": "Explosion Chromatique",
+        "en": "Chromatic Explosion"
+      },
+      "description": {
+        "fr": "Une composition abstraite à l'huile, dense et texturée, où le bleu profond et l'orange incandescent s'entrechoquent dans un mouvement dynamique. Les empâtements épais créent un relief presque sculptural.",
+        "en": "A dense, textured abstract oil composition where deep blue and incandescent orange collide in dynamic motion. Thick impasto creates an almost sculptural relief."
+      },
+      "payhipUrl": "https://payhip.com/b/WkvYA",
+      "featured": false,
+      "price": 75,
+      "fileType": "JPG",
+      "dpi": 300,
+      "printSize": "56 × 80 cm",
+      "pixels": "6614 × 9449 px"
+    },
+    {
+      "id": "pirogue-crepuscule",
+      "category": "paysage",
+      "image": "pirogue-crepuscule.png",
+      "alt": "La pirogue au crépuscule",
+      "format": "PNG · 300 dpi",
+      "categoryLabel": {
+        "fr": "Paysage",
+        "en": "Landscape"
+      },
+      "title": {
+        "fr": "La Pirogue au Crépuscule",
+        "en": "The Canoe at Dusk"
+      },
+      "description": {
+        "fr": "Quatre figures glissent en pirogue sur une rivière calme, sous un ciel embrasé de lumière dorée. Les palmiers et les habitations se reflètent doucement dans l'eau.",
+        "en": "Four figures glide by canoe across a calm river, beneath a sky ablaze with golden light. Palm trees and dwellings reflect softly in the water."
+      },
+      "payhipUrl": "https://payhip.com/b/f6urF",
+      "featured": true,
+      "price": 45,
+      "fileType": "PNG",
+      "dpi": 300,
+      "printSize": "56 × 80 cm",
+      "pixels": "6614 × 9449 px"
+    },
+    {
+      "id": "porteuse-clocher",
+      "category": "paysage",
+      "image": "porteuse-clocher.png",
+      "alt": "La porteuse et le clocher",
+      "format": "PNG · 300 dpi",
+      "categoryLabel": {
+        "fr": "Paysage",
+        "en": "Landscape"
+      },
+      "title": {
+        "fr": "La Porteuse et le Clocher",
+        "en": "The Carrier and the Bell Tower"
+      },
+      "description": {
+        "fr": "Une silhouette féminine porte une charge sur la tête en traversant un chemin de village bordé de toits de chaume, sous l'ombre d'un clocher lointain.",
+        "en": "A female figure carries a load on her head while crossing a village path lined with thatched roofs, beneath the shadow of a distant bell tower."
+      },
+      "payhipUrl": "https://payhip.com/b/60hs9",
+      "featured": false,
+      "price": 45,
+      "fileType": "PNG",
+      "dpi": 300,
+      "printSize": "56 × 80 cm",
+      "pixels": "6614 × 9449 px"
+    },
+    {
+      "id": "cour-aux-poules",
+      "category": "paysage",
+      "image": "cour-aux-poules.png",
+      "alt": "La cour aux poules",
+      "format": "PNG · 300 dpi",
+      "categoryLabel": {
+        "fr": "Paysage",
+        "en": "Landscape"
+      },
+      "title": {
+        "fr": "La Cour aux Poules",
+        "en": "The Courtyard with Hens"
+      },
+      "description": {
+        "fr": "Sous un grand arbre généreux, deux figures et quelques poules animent la cour paisible d'une case traditionnelle au toit de chaume.",
+        "en": "Beneath a generous old tree, two figures and a few hens bring life to the peaceful courtyard of a traditional thatched-roof house."
+      },
+      "payhipUrl": "https://payhip.com/b/BLZly",
+      "featured": false,
+      "price": 45,
+      "fileType": "PNG",
+      "dpi": 300,
+      "printSize": "56 × 80 cm",
+      "pixels": "6614 × 9449 px"
+    },
+    {
+      "id": "couronne-azur",
+      "category": "illustration",
+      "image": "couronne-azur.jpg",
+      "alt": "Couronne d'Azur",
+      "format": "JPG · 300 dpi",
+      "categoryLabel": {
+        "fr": "Illustration",
+        "en": "Illustration"
+      },
+      "title": {
+        "fr": "Couronne d'Azur",
+        "en": "Azure Crown"
+      },
+      "description": {
+        "fr": "Un portrait de profil empreint de noblesse, où la chevelure se transforme en vagues de bleu profond et d'or, parsemées de feuilles métalliques. Les bijoux dorés et le tissu wax ancrent cette figure dans une élégance africaine intemporelle.",
+        "en": "A noble profile portrait where the hair transforms into waves of deep blue and gold, dotted with metallic leaf. The golden jewellery and wax-print fabric anchor this figure in timeless African elegance."
+      },
+      "payhipUrl": "https://payhip.com/b/Nbxhs",
+      "featured": true,
+      "price": 45,
+      "fileType": "JPG",
+      "dpi": 300,
+      "printSize": "56 × 80 cm",
+      "pixels": "6614 × 9449 px"
+    },
+    {
+      "id": "reine-or-saphir",
+      "category": "illustration",
+      "image": "reine-or-saphir.jpg",
+      "alt": "Reine d'Or et de Saphir",
+      "format": "JPG · 300 dpi",
+      "categoryLabel": {
+        "fr": "Illustration",
+        "en": "Illustration"
+      },
+      "title": {
+        "fr": "Reine d'Or et de Saphir",
+        "en": "Queen of Gold and Sapphire"
+      },
+      "description": {
+        "fr": "Face caméra, cette femme rayonne d'une présence royale. Les symboles Adinkra dorés en arrière-plan, les multiples rangs de perles bleues et or, et le regard assuré racontent une histoire de sagesse ancestrale et de fierté.",
+        "en": "Facing the viewer, this woman radiates a regal presence. Golden Adinkra symbols in the background, multiple strands of blue and gold beads, and a confident gaze tell a story of ancestral wisdom and pride."
+      },
+      "payhipUrl": "https://payhip.com/b/miwsa",
+      "featured": true,
+      "price": 45,
+      "fileType": "JPG",
+      "dpi": 300,
+      "printSize": "56 × 80 cm",
+      "pixels": "6614 × 9449 px"
+    },
+    {
+      "id": "tempete-couleurs",
+      "category": "illustration",
+      "image": "tempete-couleurs.jpg",
+      "alt": "Tempête de Couleurs",
+      "format": "JPG · 300 dpi",
+      "categoryLabel": {
+        "fr": "Illustration",
+        "en": "Illustration"
+      },
+      "title": {
+        "fr": "Tempête de Couleurs",
+        "en": "Storm of Colors"
+      },
+      "description": {
+        "fr": "Une chevelure flamboyante mêlant bleu, or et turquoise s'envole comme une tempête de couleurs autour d'un visage serein. Les boucles d'oreilles dorées et le collier de pierres bleues complètent ce portrait vibrant d'énergie et de fierté.",
+        "en": "Flamboyant hair blending blue, gold and turquoise swirls like a storm of colour around a serene face. Golden earrings and a blue stone necklace complete this portrait, vibrant with energy and pride."
+      },
+      "payhipUrl": "https://payhip.com/b/UVkxj",
+      "featured": false,
+      "price": 45,
+      "fileType": "JPG",
+      "dpi": 300,
+      "printSize": "56 × 80 cm",
+      "pixels": "6614 × 9449 px"
+    },
+    {
+      "id": "crepuscule-village",
+      "category": "paysage",
+      "image": "crepuscule-village.jpg",
+      "alt": "Crépuscule au Village",
+      "format": "JPG · 300 dpi",
+      "categoryLabel": {
+        "fr": "Paysage",
+        "en": "Landscape"
+      },
+      "title": {
+        "fr": "Crépuscule au Village",
+        "en": "Village Twilight"
+      },
+      "description": {
+        "fr": "Un village traditionnel s'éveille sous un ciel flamboyant d'orange et d'or. Femmes portant des calebasses, enfants jouant, et le feu crépitant où l'on prépare le repas du soir.",
+        "en": "A traditional village comes alive under a blazing orange and gold sky. Women carrying gourds, children playing, and a crackling fire preparing the evening meal."
+      },
+      "payhipUrl": "https://payhip.com/b/VzYuZ",
+      "featured": true,
+      "price": 45,
+      "fileType": "JPG",
+      "dpi": 300,
+      "printSize": "56 × 80 cm",
+      "pixels": "6614 × 9449 px"
+    },
+    {
+      "id": "retour-des-champs",
+      "category": "paysage",
+      "image": "retour-des-champs.jpg",
+      "alt": "Retour des Champs",
+      "format": "JPG · 300 dpi",
+      "categoryLabel": {
+        "fr": "Paysage",
+        "en": "Landscape"
+      },
+      "title": {
+        "fr": "Retour des Champs",
+        "en": "Return from the Fields"
+      },
+      "description": {
+        "fr": "Sous un soleil couchant doré, les villageois rentrent de leur journée — femmes portant des paniers sur la tête, enfants accompagnant le bétail. La fumée du foyer s'élève doucement.",
+        "en": "Beneath a golden setting sun, villagers return from their day — women carrying baskets on their heads, children tending cattle. Smoke from the hearth rises gently."
+      },
+      "payhipUrl": "https://payhip.com/b/sIxhb",
+      "featured": false,
+      "price": 45,
+      "fileType": "JPG",
+      "dpi": 300,
+      "printSize": "56 × 80 cm",
+      "pixels": "6614 × 9449 px"
+    },
+    {
+      "id": "lumiere-soir-village",
+      "category": "paysage",
+      "image": "lumiere-soir-village.jpg",
+      "alt": "Lumière du Soir sur le Village",
+      "format": "JPG · 300 dpi",
+      "categoryLabel": {
+        "fr": "Paysage",
+        "en": "Landscape"
+      },
+      "title": {
+        "fr": "Lumière du Soir sur le Village",
+        "en": "Evening Light over the Village"
+      },
+      "description": {
+        "fr": "La pleine lune se lève entre les arbres alors que le village s'anime : porteuses de paniers, hommes au travail, et la chaleur d'un feu partagé.",
+        "en": "The full moon rises between the trees as the village comes alive: basket carriers, working men, and the warmth of a shared fire."
+      },
+      "payhipUrl": "https://payhip.com/b/IkwnP",
+      "featured": false,
+      "price": 45,
+      "fileType": "JPG",
+      "dpi": 300,
+      "printSize": "56 × 80 cm",
+      "pixels": "6614 × 9449 px"
+    },
+    {
+      "id": "fragments-memoire",
+      "category": "abstrait",
+      "image": "fragments-memoire.jpg",
+      "alt": "Fragments de Mémoire",
+      "format": "JPG · 300 dpi",
+      "categoryLabel": {
+        "fr": "Abstrait",
+        "en": "Abstract"
+      },
+      "title": {
+        "fr": "Fragments de Mémoire",
+        "en": "Fragments of Memory"
+      },
+      "description": {
+        "fr": "Une composition expressive et texturée où le noir, le rouge profond et l'or éclatent sur fond bleu pâle, comme des fragments de souvenirs qui s'entrechoquent.",
+        "en": "An expressive, textured composition where black, deep red and gold burst against a pale blue background, like fragments of memory colliding."
+      },
+      "payhipUrl": "https://payhip.com/b/4bXtr",
+      "featured": false,
+      "price": 75,
+      "fileType": "JPG",
+      "dpi": 300,
+      "printSize": "56 × 80 cm",
+      "pixels": "6614 × 9449 px"
+    },
+    {
+      "id": "eclosion",
+      "category": "abstrait",
+      "image": "eclosion.jpg",
+      "alt": "Éclosion",
+      "format": "JPG · 300 dpi",
+      "categoryLabel": {
+        "fr": "Abstrait",
+        "en": "Abstract"
+      },
+      "title": {
+        "fr": "Éclosion",
+        "en": "Blooming"
+      },
+      "description": {
+        "fr": "Des nuages de couleur — noir, rouge, or et blanc — se déploient en symétrie organique sur un fond azur délavé, comme une explosion silencieuse capturée dans la matière.",
+        "en": "Clouds of colour — black, red, gold and white — unfold in organic symmetry against a washed-out azure background, like a silent explosion captured in paint."
+      },
+      "payhipUrl": "https://payhip.com/b/xfFzk",
+      "featured": false,
+      "price": 75,
+      "fileType": "JPG",
+      "dpi": 300,
+      "printSize": "56 × 80 cm",
+      "pixels": "6614 × 9449 px"
+    },
+    {
+      "id": "cercles-ancestraux",
+      "category": "abstrait",
+      "image": "cercles-ancestraux.jpg",
+      "alt": "Cercles Ancestraux",
+      "format": "JPG · 300 dpi",
+      "categoryLabel": {
+        "fr": "Abstrait",
+        "en": "Abstract"
+      },
+      "title": {
+        "fr": "Cercles Ancestraux",
+        "en": "Ancestral Circles"
+      },
+      "description": {
+        "fr": "Des motifs circulaires en zigzag, inspirés des tissus et symboles traditionnels africains, s'entrelacent sur un fond de terre brûlée, rouge et or.",
+        "en": "Circular zigzag patterns, inspired by traditional African textiles and symbols, intertwine against a backdrop of burnt earth, red and gold."
+      },
+      "payhipUrl": "https://payhip.com/b/PzoLe",
+      "featured": true,
+      "price": 75,
+      "fileType": "JPG",
+      "dpi": 300,
+      "printSize": "56 × 80 cm",
+      "pixels": "6614 × 9449 px"
+    },
+    {
+      "id": "tambours-soleil",
+      "category": "abstrait",
+      "image": "tambours-soleil.jpg",
+      "alt": "Tambours du Soleil",
+      "format": "JPG · 300 dpi",
+      "categoryLabel": {
+        "fr": "Abstrait",
+        "en": "Abstract"
+      },
+      "title": {
+        "fr": "Tambours du Soleil",
+        "en": "Drums of the Sun"
+      },
+      "description": {
+        "fr": "Arcs concentriques et chevrons noirs rythment cette composition solaire en brun, rouge, crème et or — comme le battement visuel d'un tambour ancestral.",
+        "en": "Concentric arcs and black chevrons set the rhythm of this solar composition in brown, red, cream and gold — like the visual beat of an ancestral drum."
+      },
+      "payhipUrl": "https://payhip.com/b/32Bzp",
+      "featured": false,
+      "price": 75,
+      "fileType": "JPG",
+      "dpi": 300,
+      "printSize": "56 × 80 cm",
+      "pixels": "6614 × 9449 px"
+    },
+    {
+      "id": "market-of-golden-traditions",
+      "category": "paysage",
+      "image": "Market of Golden Traditions.png",
+      "alt": "Marché aux Traditions Dorées",
+      "format": "PNG · 300 dpi",
+      "categoryLabel": {
+        "fr": "Paysage",
+        "en": "Landscape"
+      },
+      "title": {
+        "fr": "Marché aux Traditions Dorées",
+        "en": "Market of Golden Traditions"
+      },
+      "description": {
+        "fr": "Un marché africain vibrant où femmes en tenues colorées, étals de fruits et tissus créent une scène de vie quotidienne empreinte de chaleur et de tradition.",
+        "en": "A vibrant African market where women in colourful attire, fruit stalls and fabrics create a scene of daily life filled with warmth and tradition."
+      },
+      "payhipUrl": "https://payhip.com/b/OxfJv",
+      "featured": false,
+      "price": 45,
+      "fileType": "PNG",
+      "dpi": 300,
+      "printSize": "56 × 80 cm",
+      "pixels": "6614 × 9449 px"
+    }
+  ]
+}
