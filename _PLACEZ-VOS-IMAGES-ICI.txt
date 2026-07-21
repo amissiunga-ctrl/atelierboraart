@@ -1,0 +1,26 @@
+Déposez ici tous les fichiers image de vos œuvres (.jpg / .png).
+
+⚠️ Le nom du fichier doit correspondre EXACTEMENT au champ "image"
+de chaque œuvre dans works.json / works-data.js.
+
+Fichiers attendus d'après vos œuvres actuelles :
+  - Atelierboraart.png
+  - cercles-ancestraux.jpg
+  - cour-aux-poules.png
+  - couronne-azur.jpg
+  - crepuscule-village.jpg
+  - eclosion.jpg
+  - explosion-chromatique.jpg
+  - fragments-memoire.jpg
+  - lumiere-soir-village.jpg
+  - pirogue-crepuscule.png
+  - porteuse-clocher.png
+  - reine-des-couleurs.jpg
+  - reine-or-saphir.jpg
+  - retour-des-champs.jpg
+  - tambours-soleil.jpg
+  - tempete-couleurs.jpg
+
+Images utilisées sur d'autres pages (accueil/à propos) :
+  - unga-amissi.png
+  - portrait-unga.jpg
