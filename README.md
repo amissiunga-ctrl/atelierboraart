@@ -20,6 +20,7 @@ Corrige l’affichage **« Image à venir »** et renforce les chemins d’image
 Le catalogue pointait vers :
 
 ```text
+
 images/Market of Golden Traditions.png  →  404
 ```
 
